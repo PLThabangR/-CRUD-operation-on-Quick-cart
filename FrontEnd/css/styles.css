@@ -200,6 +200,7 @@ textarea {
   background-color: #0056b3;
 }
 
-#productForm {
+#editProductForm,
+#addProductForm {
   width: 100%;
 }
